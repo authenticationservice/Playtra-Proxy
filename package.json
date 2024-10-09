@@ -14,7 +14,7 @@
   "dependencies": {
     "@mercuryworkshop/bare-mux": "^2.0.4",
     "@mercuryworkshop/epoxy-transport": "^2.1.8",
-    "@titaniumnetwork-dev/ultraviolet": "^3.2.7",
+    "ultraviolet": "github:https://github.com/authenticationservice/Radiation/",
     "express": "^4.19.2",
     "wisp-server-node": "^1.1.3"
   }
